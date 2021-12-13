@@ -1,9 +1,9 @@
 ### Hi there 👋
-
+Check out my personal webpage [here](http://hardik01shah.github.io/) to learn more about me!
 <!--
 **hardik01shah/hardik01shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on ROS, Autonomous Drones, Autonomous wheeled robots, Path Planning, Machine Learning, Deep Learning 
+<!-- - 🔭 I’m currently working on ROS, Autonomous Drones, Autonomous wheeled robots, Path Planning, Machine Learning, Deep Learning 
 - 🌱 I’m currently learning MEAN stack, Web Development, ML/DL
 - 👯 I’m looking to collaborate on ROS+Unity, Robotics, Autonomous Vehicles
 
@@ -38,3 +38,4 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+ -->
