@@ -1,12 +1,12 @@
 ### Hi there 👋
-Check out my personal webpage [here](http://hardik01shah.github.io/) to learn more about me!
+Check out my [personal webpage](http://hardik01shah.github.io/) to learn more about me!
 <!--
 **hardik01shah/hardik01shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <!-- - 🔭 I’m currently working on ROS, Autonomous Drones, Autonomous wheeled robots, Path Planning, Machine Learning, Deep Learning 
 - 🌱 I’m currently learning MEAN stack, Web Development, ML/DL
 - 👯 I’m looking to collaborate on ROS+Unity, Robotics, Autonomous Vehicles
-
+-->
 ##  Github Stats:
 ![github stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=hardik01shah)
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=hardik01shah)<br/>
@@ -21,7 +21,7 @@ Check out my personal webpage [here](http://hardik01shah.github.io/) to learn mo
  <a href="https://linkedin.com/in/hardik-shah-b6b3921b2/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:hardik01shah@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-
+<!--
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
