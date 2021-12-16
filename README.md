@@ -7,6 +7,7 @@ Check out my [personal webpage](http://hardik01shah.github.io/) to learn more ab
 - 🌱 I’m currently learning MEAN stack, Web Development, ML/DL
 - 👯 I’m looking to collaborate on ROS+Unity, Robotics, Autonomous Vehicles
 -->
+<!--
 ##  Github Stats:
 ![github stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=hardik01shah)
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=hardik01shah)<br/>
@@ -21,6 +22,7 @@ Check out my [personal webpage](http://hardik01shah.github.io/) to learn more ab
  <a href="https://linkedin.com/in/hardik-shah-b6b3921b2/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:hardik01shah@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
+-->
 <!--
 ## 🧰 Languages and Tools:
 <p align="center">
